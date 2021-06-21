@@ -1,0 +1,23 @@
+h1{
+	color:#FFFF00;
+	text-align: center;
+}
+h3{
+	color: white;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+h2{
+	color: white;
+	font-style: italic;
+}
+
+body {  background-image: url("https://cdn.pixabay.com/photo/2016/03/26/13/12/pencils-1280558_960_720.jpg");
+background-position: 200px 0px;
+
+}
+p{
+	color: #FBFBEF;
+	font-family: 'Times New Roman', Times, serif;
+}

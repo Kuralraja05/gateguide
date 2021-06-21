@@ -1,0 +1,21 @@
+h1{
+	color:#050FEA;
+	text-align: center;
+}
+
+body {  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQXNAiRr9_vUNmop-jK88Xug_vU0XwXKlOc7Yxeb8Cn9VKLEmc&usqp=CAU");
+background-position: 200px 0px;
+
+}
+p{
+	color: black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+b{
+	color: #E801C9 ;
+}
+h2
+{
+	text-align: center;
+	color: #FF2121  ;
+}
